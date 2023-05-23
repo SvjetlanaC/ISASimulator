@@ -1,0 +1,6 @@
+ADD reg1 5
+OUT reg1
+ADD reg1 2
+OUT reg1
+SUB reg1 2
+OUT reg1

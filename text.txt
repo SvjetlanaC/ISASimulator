@@ -1,0 +1,21 @@
+ADD reg1 5
+OUT reg1
+ADD reg1 2
+OUT reg1
+SUB reg1 2
+OUT reg1
+ADD reg2 2
+ADD reg3 5
+AND reg1 reg2
+OUT reg1
+ADD reg1 2
+AND reg2 reg1
+OUT reg2
+OR reg1 reg2
+OR reg1 reg3
+OUT reg1
+NOT reg3
+OUT reg3
+IN reg3
+OUT reg3
+ADf reg3 3
